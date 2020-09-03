@@ -1,2 +1,2 @@
 # console-interloper
-A mini game in nodejs thar runs from terminal
+A mini game in nodejs that runs from terminal
